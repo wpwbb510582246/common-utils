@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47922964-d298-4287-a847-23609b31c597" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/conf/ConfigurationManager.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/constant/Constants.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/enums/ExceptionEnums.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/exception/ECommerceDataAnalysisPlatformException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/CodecUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/CookieUtils$CookieBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/CookieUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/DateUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/IdWorker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/JobUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/JsonUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/javase/CodecUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/javase/CookieUtils$CookieBuilder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/javase/CookieUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/javase/DateUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/javase/IdWorker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/javase/JsonUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/javase/NumberUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/javase/StringUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/javase/ValidUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT-sources.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-    </list>
+    <list default="true" id="47922964-d298-4287-a847-23609b31c597" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -259,7 +230,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540253783464</updated>
-      <workItem from="1540253784922" duration="6239000" />
+      <workItem from="1540253784922" duration="6246000" />
     </task>
     <task id="LOCAL-00001" summary="First time to upload projects for common-utils">
       <created>1540255457089</created>
@@ -268,11 +239,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540255457089</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First time to upload projects for common-utils">
+      <created>1540262464856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540262464856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6239000" />
+    <option name="totallyTimeSpent" value="6246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1051" extended-state="6" />
