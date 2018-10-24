@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
+        <spark.version>2.1.1</spark.version>
         <fastjson.version>1.2.49</fastjson.version>
         <jackson.version>2.9.5</jackson.version>
         <log4j.version>1.2.17</log4j.version>
@@ -21,6 +22,27 @@
     </properties>
 
     <dependencies>
+        <!-- Spark 相关 -->
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-core_2.11</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-sql_2.11</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-hive_2.11</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.spark</groupId>
+            <artifactId>spark-streaming_2.11</artifactId>
+            <version>${spark.version}</version>
+        </dependency>
         <!-- FastJson -->
         <dependency>
             <groupId>com.alibaba</groupId>
