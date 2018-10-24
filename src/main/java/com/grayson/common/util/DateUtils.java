@@ -44,6 +44,17 @@ public class DateUtils {
 
     /**
      * 将日期字符串转换为日期对象
+     * 字符串日期格式为 : dd/MMM/yyyy HH:mm:ss
+     * @param date  日期字符串
+     * @return  日期对象
+     */
+
+    public static Date parseDateWithDayMonthYearWithSeconds(String date) {
+        return parseDate(date, Constants.DATE_FORMAT_PATTERN_WITH_DAY_MONTH_YEAR_WITH_SECONDS);
+    }
+
+    /**
+     * 将日期字符串转换为日期对象
      * 字符串日期格式为 : yyyy-MM-dd HH:mm:ss
      * @param date  日期字符串
      * @return  日期对象
@@ -87,6 +98,17 @@ public class DateUtils {
 
     public static String getTodayDate() {
         return formatDate(new Date(), Constants.DATE_FORMAT_PATTERN_DEFAULT);
+    }
+
+    /**
+     * 获取指定格式指定日期格式化后的日期字符串
+     * 格式为 : dd/MMM/yyyy HH:mm:ss
+     * @param date  日期
+     * @return  格式化后的日期字符串
+     */
+
+    public static String formatDateWithDayMonthYearWithSeconds(Date date) {
+        return formatDate(date, Constants.DATE_FORMAT_PATTERN_WITH_DAY_MONTH_YEAR_WITH_SECONDS);
     }
 
     /**

@@ -186,6 +186,9 @@ public class Constants {
     //  没有分隔符的含有秒的日期格式
     public static final String DATE_FORMAT_PATTERN_WITH_SECONDS_WITHOUT_SEPARATOR = "yyyyMMddHHmmss";
 
+    //  含有秒的顺序为日、月、年的日期格式
+    public static final String DATE_FORMAT_PATTERN_WITH_DAY_MONTH_YEAR_WITH_SECONDS = "dd/MMM/yyyy HH:mm:ss";
+
     /**
      * 任务参数
      */
