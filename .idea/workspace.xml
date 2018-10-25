@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47922964-d298-4287-a847-23609b31c597" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/grayson/common/util/FileUtils.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -84,7 +83,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="294" />
     <option name="y" value="112" />
     <option name="width" value="1300" />
@@ -284,7 +283,7 @@
       <workItem from="1540386865035" duration="1162000" />
       <workItem from="1540390286861" duration="1998000" />
       <workItem from="1540440200434" duration="172000" />
-      <workItem from="1540453941049" duration="51000" />
+      <workItem from="1540453941049" duration="85000" />
     </task>
     <task id="LOCAL-00001" summary="First time to upload projects for common-utils">
       <created>1540255457089</created>
@@ -314,14 +313,21 @@
       <option name="project" value="LOCAL" />
       <updated>1540391692489</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1.Add FileUtils to this project">
+      <created>1540454026090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540454026090</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10071000" />
+    <option name="totallyTimeSpent" value="10105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1051" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1051" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -365,7 +371,8 @@
     <MESSAGE value="Add SparkUtils to this project which contanins getSparkConf, getSparkContext, getSQLContext, etc." />
     <MESSAGE value="1.Add some new methods to DateUtils :&#10;A.name : formatDateWithDayMonthYearWithSeconds&#10;description : this method can help you to format a Date with pattern like &quot;dd/MMM/yyyy HH:mm:ss&quot; to a string" />
     <MESSAGE value="1.Add some new methods to DateUtils :&#10;A.name : formatDateWithDayMonthYearWithSeconds&#10;description : this method can help you to format a Date with pattern like &quot;dd/MMM/yyyy HH:mm:ss&quot; to a string&#10;&#10;B.name : parseDateWithDayMonthYearWithSeconds&#10;description : this method can help you to parse a string with pattern like &quot;dd/MMM/yyyy HH:mm:ss&quot; to a Date&#10;&#10;2.Add StringUtils to this project which be convenient for you to handle with string" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.Add some new methods to DateUtils :&#10;A.name : formatDateWithDayMonthYearWithSeconds&#10;description : this method can help you to format a Date with pattern like &quot;dd/MMM/yyyy HH:mm:ss&quot; to a string&#10;&#10;B.name : parseDateWithDayMonthYearWithSeconds&#10;description : this method can help you to parse a string with pattern like &quot;dd/MMM/yyyy HH:mm:ss&quot; to a Date&#10;&#10;2.Add StringUtils to this project which be convenient for you to handle with string" />
+    <MESSAGE value="1.Add FileUtils to this project" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.Add FileUtils to this project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
