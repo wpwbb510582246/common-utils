@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47922964-d298-4287-a847-23609b31c597" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/FileUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/grayson/common/util/FileUtils.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/SparkUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/grayson/common/util/SparkUtils.class" />
-      <change beforePath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT-sources.jar" afterPath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT-sources.jar" />
-      <change beforePath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT.jar" />
-    </list>
+    <list default="true" id="47922964-d298-4287-a847-23609b31c597" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,7 +79,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="294" />
     <option name="y" value="112" />
     <option name="width" value="1300" />
@@ -287,7 +281,7 @@
       <workItem from="1540440200434" duration="172000" />
       <workItem from="1540453941049" duration="242000" />
       <workItem from="1540456281854" duration="225000" />
-      <workItem from="1540466629413" duration="1442000" />
+      <workItem from="1540466629413" duration="1450000" />
     </task>
     <task id="LOCAL-00001" summary="First time to upload projects for common-utils">
       <created>1540255457089</created>
@@ -342,11 +336,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11929000" />
+    <option name="totallyTimeSpent" value="11937000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1051" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1051" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
