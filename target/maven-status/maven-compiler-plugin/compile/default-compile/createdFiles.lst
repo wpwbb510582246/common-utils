@@ -1,6 +1,7 @@
 com\grayson\common\constant\Constants.class
 com\grayson\common\util\DateUtils.class
 com\grayson\common\util\StringUtils.class
+com\grayson\common\util\FileUtils.class
 com\grayson\common\util\JobUtils.class
 com\grayson\common\util\CookieUtils$CookieBuilder.class
 com\grayson\common\util\CodecUtils.class
