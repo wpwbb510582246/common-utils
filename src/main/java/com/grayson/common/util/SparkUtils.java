@@ -51,11 +51,10 @@ public class SparkUtils {
 
     /**
      * 获取 SparkConf 对象
-     * @param args  从控制台接收的参数
      * @return  SparkConf 对象
      */
 
-    public static SparkConf getSparkConf(String[] args) {
+    public static SparkConf getSparkConf() {
         SparkConf conf = new SparkConf()
                 .setAppName(Constants.SPARK_APP_NAME_SESSION)
                 .set("spark.storage.memoryFraction", "0.5")
@@ -68,6 +67,16 @@ public class SparkUtils {
                 .set("spark.serializer", "org.apache.spark.serializer.KryoSerializer");
         setMaster(conf);
         return conf;
+    }
+
+    /**
+     * 获取 SparkConf 对象
+     * @param args  从控制台接收的参数
+     * @return  SparkConf 对象
+     */
+
+    public static SparkConf getSparkConf(String[] args) {
+        return getSparkConf();
     }
 
     /**
