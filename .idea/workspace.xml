@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47922964-d298-4287-a847-23609b31c597" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/grayson/common/util/FileUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/grayson/common/util/FileUtils.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/grayson/common/util/SparkUtils.java" afterPath="$PROJECT_DIR$/src/main/java/com/grayson/common/util/SparkUtils.java" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/FileUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/grayson/common/util/FileUtils.class" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/grayson/common/util/SparkUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/grayson/common/util/SparkUtils.class" />
       <change beforePath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT-sources.jar" afterPath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT-sources.jar" />
@@ -87,7 +85,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="294" />
     <option name="y" value="112" />
     <option name="width" value="1300" />
@@ -289,7 +287,7 @@
       <workItem from="1540440200434" duration="172000" />
       <workItem from="1540453941049" duration="242000" />
       <workItem from="1540456281854" duration="225000" />
-      <workItem from="1540466629413" duration="1137000" />
+      <workItem from="1540466629413" duration="1442000" />
     </task>
     <task id="LOCAL-00001" summary="First time to upload projects for common-utils">
       <created>1540255457089</created>
@@ -333,14 +331,21 @@
       <option name="project" value="LOCAL" />
       <updated>1540456470873</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1.Update FileUtils&#10;A.method 'writeToFile' support to write to HDFS&#10;&#10;2.Update SparkUtils&#10;A.Add a no constructor method for method 'getSparkConf' which allows you to get an object of SparkConf with no arguments">
+      <created>1540467975878</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540467975878</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11624000" />
+    <option name="totallyTimeSpent" value="11929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1051" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1051" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -386,7 +391,8 @@
     <MESSAGE value="1.Add some new methods to DateUtils :&#10;A.name : formatDateWithDayMonthYearWithSeconds&#10;description : this method can help you to format a Date with pattern like &quot;dd/MMM/yyyy HH:mm:ss&quot; to a string&#10;&#10;B.name : parseDateWithDayMonthYearWithSeconds&#10;description : this method can help you to parse a string with pattern like &quot;dd/MMM/yyyy HH:mm:ss&quot; to a Date&#10;&#10;2.Add StringUtils to this project which be convenient for you to handle with string" />
     <MESSAGE value="1.Add FileUtils to this project" />
     <MESSAGE value="1.update writeFile method in FileUtils which can write to file with append model" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.update writeFile method in FileUtils which can write to file with append model" />
+    <MESSAGE value="1.Update FileUtils&#10;A.method 'writeToFile' support to write to HDFS&#10;&#10;2.Update SparkUtils&#10;A.Add a no constructor method for method 'getSparkConf' which allows you to get an object of SparkConf with no arguments" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.Update FileUtils&#10;A.method 'writeToFile' support to write to HDFS&#10;&#10;2.Update SparkUtils&#10;A.Add a no constructor method for method 'getSparkConf' which allows you to get an object of SparkConf with no arguments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
