@@ -36,7 +36,7 @@ public class FileUtils {
                 file.createNewFile();
             }
             //  将数据写入文件
-            writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(path)));
+            writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(path, true)));
             writer.append(data);
             writer.newLine();
         } catch (IOException e) {
